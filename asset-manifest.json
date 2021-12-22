@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolist-marie.git/static/css/main.152ee831.css",
+    "main.js": "/todolist-marie.git/static/js/main.1ba20893.js",
+    "static/js/787.a6c97c9b.chunk.js": "/todolist-marie.git/static/js/787.a6c97c9b.chunk.js",
+    "index.html": "/todolist-marie.git/index.html",
+    "main.152ee831.css.map": "/todolist-marie.git/static/css/main.152ee831.css.map",
+    "main.1ba20893.js.map": "/todolist-marie.git/static/js/main.1ba20893.js.map",
+    "787.a6c97c9b.chunk.js.map": "/todolist-marie.git/static/js/787.a6c97c9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152ee831.css",
+    "static/js/main.1ba20893.js"
+  ]
+}
